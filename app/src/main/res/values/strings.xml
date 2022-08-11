@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Tip Calculator</string>
+    <string name="enter_your_tip">Enter Your Tip</string>
 </resources>
